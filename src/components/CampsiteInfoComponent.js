@@ -38,7 +38,7 @@ function RenderCampsite({ campsite }) {
         </Card>
       </FadeTransform>
     </div>
-  );
+  );  
 }
 
 function RenderComments({comments, postComment, campsiteId}) {
